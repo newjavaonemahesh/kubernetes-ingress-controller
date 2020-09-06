@@ -126,6 +126,10 @@ meeting invite and Zoom links to join the meeting.
 [badge-travis-url]: https://travis-ci.org/Kong/kubernetes-ingress-controller
 [bintray-master-builds]: https://bintray.com/kong/kubernetes-ingress-controller/master
 [kong-url]: https://konghq.com/
-[kong-logo]: https://konghq.com/wp-content/uploads/2018/05/kong-logo-github-readme.png
 [k4k8s-enterprise-setup]: https://github.com/Kong/kubernetes-ingress-controller/blob/master/docs/deployment/k4k8s-enterprise.md
 [guides]: docs/guides/
+
+[kong-logo]: https://konghq.com/wp-content/uploads/2018/05/kong-logo-github-readme.png
+
+
+## new line added
